@@ -1,0 +1,10 @@
+<resources>
+    <color name="purple_500">#D62828</color>
+    <color name="purple_700">#B71C1C</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_100">#F7F7F7</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_600">#666666</color>
+    <color name="success">#2E7D32</color>
+</resources>
