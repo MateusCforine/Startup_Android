@@ -4,13 +4,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.startup.databinding.ActivityVerificacaoBinding;
 
 import java.util.Random;
 
-public class VerificacaoActivity extends AppCompatActivity {
+public class VerificacaoActivity extends BaseMenuActivity {
     private ActivityVerificacaoBinding binding;
     private String codigoGerado;
     private String email;

@@ -5,11 +5,9 @@ import android.os.Bundle;
 import android.util.Patterns;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.startup.databinding.ActivityCadastroBinding;
 
-public class CadastroActivity extends AppCompatActivity {
+public class CadastroActivity extends BaseMenuActivity {
     private ActivityCadastroBinding binding;
     private SessionManager sessionManager;
 

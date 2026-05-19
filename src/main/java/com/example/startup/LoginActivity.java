@@ -8,11 +8,9 @@ import android.util.Patterns;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.startup.databinding.ActivityLoginBinding;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends BaseMenuActivity {
 
     private ActivityLoginBinding binding;
     private SessionManager sessionManager;
